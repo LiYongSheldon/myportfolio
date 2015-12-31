@@ -230,11 +230,11 @@ contact page
 }
 
 .contact-info li.phone a {
-  background-image:url('../img/phone.png');
+  background-image:url('img/phone.png');
 }
 
 .contact-info li.mail a {
-  background-image:url('../img/mail.png');
+  background-image:url('img/mail.png');
 }
 
 
