@@ -207,7 +207,13 @@ about page
 /**************************************
 contact page
 **************************************/
-#primary,#secondary {
+#primary{
+ display:inline-block;
+ width:50%;
+ margin:-4px;
+}
+
+#secondary {
  display:inline-block;
  width:50%;
  margin:-4px;
