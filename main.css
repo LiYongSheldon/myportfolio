@@ -207,6 +207,11 @@ about page
 /**************************************
 contact page
 **************************************/
+#primary,#secondary {
+ display:inline-block;
+ width:50%;
+ margin:-4px;
+}
 
 .contact {
 	font-size:1.75em;
